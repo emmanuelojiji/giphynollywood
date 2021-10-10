@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/nollywood/static/css/main.5d031ba0.chunk.css",
+    "main.js": "/nollywood/static/js/main.f344702a.chunk.js",
+    "main.js.map": "/nollywood/static/js/main.f344702a.chunk.js.map",
+    "runtime-main.js": "/nollywood/static/js/runtime-main.23f2bb97.js",
+    "runtime-main.js.map": "/nollywood/static/js/runtime-main.23f2bb97.js.map",
+    "static/js/2.ad43c32d.chunk.js": "/nollywood/static/js/2.ad43c32d.chunk.js",
+    "static/js/2.ad43c32d.chunk.js.map": "/nollywood/static/js/2.ad43c32d.chunk.js.map",
+    "index.html": "/nollywood/index.html",
+    "static/css/main.5d031ba0.chunk.css.map": "/nollywood/static/css/main.5d031ba0.chunk.css.map",
+    "static/js/2.ad43c32d.chunk.js.LICENSE.txt": "/nollywood/static/js/2.ad43c32d.chunk.js.LICENSE.txt",
+    "static/media/chase.a4516c54.gif": "/nollywood/static/media/chase.a4516c54.gif",
+    "static/media/faint.ba0abc48.gif": "/nollywood/static/media/faint.ba0abc48.gif",
+    "static/media/flying_stone.bf4e4953.gif": "/nollywood/static/media/flying_stone.bf4e4953.gif",
+    "static/media/holding_knife_1.68757424.gif": "/nollywood/static/media/holding_knife_1.68757424.gif",
+    "static/media/jenifa-1.b4438497.gif": "/nollywood/static/media/jenifa-1.b4438497.gif",
+    "static/media/logo.6ce24c58.svg": "/nollywood/static/media/logo.6ce24c58.svg",
+    "static/media/omg.32bc83a9.gif": "/nollywood/static/media/omg.32bc83a9.gif",
+    "static/media/osita_1.c2dfa790.gif": "/nollywood/static/media/osita_1.c2dfa790.gif",
+    "static/media/osita_2.d15236e2.gif": "/nollywood/static/media/osita_2.d15236e2.gif",
+    "static/media/osita_3.e82c9b86.gif": "/nollywood/static/media/osita_3.e82c9b86.gif",
+    "static/media/osita_4.96f4f6e7.gif": "/nollywood/static/media/osita_4.96f4f6e7.gif",
+    "static/media/patience_1.84de743c.gif": "/nollywood/static/media/patience_1.84de743c.gif",
+    "static/media/patience_2.8a362c0d.gif": "/nollywood/static/media/patience_2.8a362c0d.gif",
+    "static/media/patience_3.1a8effeb.gif": "/nollywood/static/media/patience_3.1a8effeb.gif",
+    "static/media/push_1.927eb52a.gif": "/nollywood/static/media/push_1.927eb52a.gif",
+    "static/media/roll_eyes_1.2cffec21.gif": "/nollywood/static/media/roll_eyes_1.2cffec21.gif",
+    "static/media/running_1.cf690fcd.gif": "/nollywood/static/media/running_1.cf690fcd.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23f2bb97.js",
+    "static/js/2.ad43c32d.chunk.js",
+    "static/css/main.5d031ba0.chunk.css",
+    "static/js/main.f344702a.chunk.js"
+  ]
+}
