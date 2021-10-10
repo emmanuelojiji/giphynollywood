@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nollywood/static/css/main.5dfc506c.chunk.css",
-    "main.js": "/nollywood/static/js/main.e25ce583.chunk.js",
-    "main.js.map": "/nollywood/static/js/main.e25ce583.chunk.js.map",
+    "main.css": "/nollywood/static/css/main.68b61d0e.chunk.css",
+    "main.js": "/nollywood/static/js/main.d86880e1.chunk.js",
+    "main.js.map": "/nollywood/static/js/main.d86880e1.chunk.js.map",
     "runtime-main.js": "/nollywood/static/js/runtime-main.23f2bb97.js",
     "runtime-main.js.map": "/nollywood/static/js/runtime-main.23f2bb97.js.map",
     "static/js/2.ad43c32d.chunk.js": "/nollywood/static/js/2.ad43c32d.chunk.js",
     "static/js/2.ad43c32d.chunk.js.map": "/nollywood/static/js/2.ad43c32d.chunk.js.map",
     "index.html": "/nollywood/index.html",
-    "static/css/main.5dfc506c.chunk.css.map": "/nollywood/static/css/main.5dfc506c.chunk.css.map",
+    "static/css/main.68b61d0e.chunk.css.map": "/nollywood/static/css/main.68b61d0e.chunk.css.map",
     "static/js/2.ad43c32d.chunk.js.LICENSE.txt": "/nollywood/static/js/2.ad43c32d.chunk.js.LICENSE.txt",
     "static/media/chase.a4516c54.gif": "/nollywood/static/media/chase.a4516c54.gif",
     "static/media/faint.ba0abc48.gif": "/nollywood/static/media/faint.ba0abc48.gif",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.23f2bb97.js",
     "static/js/2.ad43c32d.chunk.js",
-    "static/css/main.5dfc506c.chunk.css",
-    "static/js/main.e25ce583.chunk.js"
+    "static/css/main.68b61d0e.chunk.css",
+    "static/js/main.d86880e1.chunk.js"
   ]
 }
