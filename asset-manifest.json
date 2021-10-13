@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/giphynollywood/static/css/main.ac240010.chunk.css",
-    "main.js": "/giphynollywood/static/js/main.6782c803.chunk.js",
-    "main.js.map": "/giphynollywood/static/js/main.6782c803.chunk.js.map",
+    "main.js": "/giphynollywood/static/js/main.e550f9a5.chunk.js",
+    "main.js.map": "/giphynollywood/static/js/main.e550f9a5.chunk.js.map",
     "runtime-main.js": "/giphynollywood/static/js/runtime-main.0da320e2.js",
     "runtime-main.js.map": "/giphynollywood/static/js/runtime-main.0da320e2.js.map",
     "static/js/2.ad43c32d.chunk.js": "/giphynollywood/static/js/2.ad43c32d.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.0da320e2.js",
     "static/js/2.ad43c32d.chunk.js",
     "static/css/main.ac240010.chunk.css",
-    "static/js/main.6782c803.chunk.js"
+    "static/js/main.e550f9a5.chunk.js"
   ]
 }
